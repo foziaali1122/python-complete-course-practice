@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Python programming",
+        "priority": "High",
+        "due_date": "2026-05-11",
+        "completed": true
+    },
+    {
+        "title": "English test",
+        "priority": "High",
+        "due_date": "2026-05-11",
+        "completed": true
+    },
+    {
+        "title": "Python project",
+        "priority": "Medium",
+        "due_date": "2026-05-15",
+        "completed": false
+    },
+    {
+        "title": "Reading  Book",
+        "priority": "Medium",
+        "due_date": "2026-05-09",
+        "completed": false
+    },
+    {
+        "title": "Prayer",
+        "priority": "High",
+        "due_date": "2026-05-11",
+        "completed": false
+    },
+    {
+        "title": "Prayer",
+        "priority": "High",
+        "due_date": "2026-05-11",
+        "completed": false
+    },
+    {
+        "title": "Posting",
+        "priority": "Medium",
+        "due_date": "2026-05-12",
+        "completed": false
+    },
+    {
+        "title": "Driving",
+        "priority": "Low",
+        "due_date": "2026-05-13",
+        "completed": false
+    },
+    {
+        "title": "Maditation",
+        "priority": "High",
+        "due_date": "2026-05-10",
+        "completed": false
+    },
+    {
+        "title": "Completed python course ",
+        "priority": "High",
+        "due_date": "2026-05-13",
+        "completed": false
+    }
+]
